@@ -1,5 +1,9 @@
-## Hi there 👋
 
+Olá 👋#Estudante de informática para internet na ETEC Antônio Furlan
+## Conhecimento intermediário em:
+#### **- MySQL**
+#### **- Python**
+#### **- Inglês**
 <!--
 **Kauan-M-Marques/Kauan-M-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
