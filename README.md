@@ -1,5 +1,5 @@
 
-Olá 👋#Estudante de informática para internet na ETEC Antônio Furlan
+Olá 👋Estudante de informática para internet na ETEC Antônio Furlan
 ## Conhecimento intermediário em:
 #### **- MySQL**
 #### **- Python**
